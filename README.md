@@ -32,8 +32,7 @@
 
 ### 📊 GitHub Stats
 
-![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitikr1115&show_icons=true&theme=radical)
-
+[![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitikr1115&show_icons=true&theme=radical)](https://github.com/naitikr1115)
 ---
 
 ### ✨ Quote of the Day
