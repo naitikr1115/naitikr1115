@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Naitik Sharma</h1>
 
-<!--
-**naitikr1115/naitikr1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🌐 Aspiring Web Developer & Ethical Hacker</b> <br>
+  🚀 Passionate Learner | 🛠 Building My Digital Empire <br>
+  💻 Currently learning HTML, CSS, JS, Python & Cybersecurity
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on Web Development Projects  
+- 🌱 Learning Ethical Hacking, Linux & Cybersecurity  
+- ⚡ Fun Fact: I love breaking & fixing things 😎  
+
+---
+
+### 🛠️ Skills & Languages
+
+- 💻 HTML, CSS, JavaScript, Python  
+- 🔐 Linux, Ethical Hacking Basics, Networking  
+- 🧰 Tools: VS Code, Dcoder, Git, GitHub  
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
+
+---
+
+### 📊 GitHub Stats
+
+![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitikr1115&show_icons=true&theme=radical)
+
+---
+
+### ✨ Quote of the Day
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
