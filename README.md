@@ -1,40 +1,53 @@
-<h1 align="center">Hey there 👋, I'm Naitik Sharma</h1>
+
+<h1 align="center">Hi 👋, I'm Naitik Sharma</h1>
+<h3 align="center">🚀 Aspiring Web Developer & Ethical Hacker from India 🇮🇳</h3>
 
 <p align="center">
-  <b>🌐 Aspiring Web Developer & Ethical Hacker</b> <br>
-  🚀 Passionate Learner | 🛠 Building My Digital Empire <br>
-  💻 Currently learning HTML, CSS, JS, Python & Cybersecurity
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on Web Development Projects  
-- 🌱 Learning Ethical Hacking, Linux & Cybersecurity  
-- ⚡ Fun Fact: I love breaking & fixing things 😎  
-
----
-
-### 🛠️ Skills & Languages
-
-- 💻 HTML, CSS, JavaScript, Python  
-- 🔐 Linux, Ethical Hacking Basics, Networking  
-- 🧰 Tools: VS Code, Dcoder, Git, GitHub  
+- 🌱 I’m currently learning **Full Stack Web Development** & **Ethical Hacking**
+- 🔭 I’m building cool stuff with **HTML, CSS, JS, Linux**
+- 👯 I’m open to collaborate on **web projects & security tools**
+- 💬 Ask me about: `Linux 🐧 | HTML | JavaScript | Git | Kali`
+- 📫 Reach me at: **naitikr380@gmail.com**
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/your-link-here) <!-- 🔁 Replace with your real LinkedIn URL -->
 
 ---
 
-### 🌐 Connect With Me
+### 🛠️ Tech Stack & Tools:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings)
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-5578B4?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
-[![Naitik's GitHub stats](https://github-readme-stats.vercel.app/api?username=naitikr1115&show_icons=true&theme=radical)](https://github.com/naitikr1115)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naitikr1115&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitikr1115&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-### ✨ Quote of the Day
+### 💡 Quote that keeps me going:
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Push yourself, because no one else is going to do it for you.” 💯
+
+---
+
+### 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
